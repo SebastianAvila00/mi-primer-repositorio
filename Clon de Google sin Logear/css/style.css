@@ -2,7 +2,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-14:40
+
 }
 
 nav{ 
@@ -12,9 +12,24 @@ nav{
     align-content: center;
     align-items: center;
     float: right;
-    width: 190px;
+    width: 300px;
     padding: 6px;
     padding-right: 15px;
+}
+
+.submit{
+    background-color: #1877f2;
+    border: none;
+    border-radius: 1px;
+    font-size: 15px;
+    Google Sans,Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+    width: 100px;;
+    height: 30px;
+    color: #fff;
+}
+
+.submit:hover{
+    background-color: #166bda;
 }
 
 .puntitos{
